@@ -47,7 +47,7 @@ def save():
             email_entry.delete(0, 'end')
             password_entry.delete(0, 'end')
 
-        # ---------------------------- UI SETUP ------------------------------- #
+# ---------------------------- UI SETUP ------------------------------- #
 
 
 window = Tk()
